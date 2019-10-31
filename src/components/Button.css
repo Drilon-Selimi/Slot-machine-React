@@ -1,0 +1,18 @@
+.ButtonPlay{
+    
+    
+    font-size: 20px;
+    background-color: red;
+   
+   
+    
+}
+
+.Button-div{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
